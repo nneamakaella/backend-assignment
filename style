@@ -1,0 +1,11 @@
+.about-planet-footer-section-copyright{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
+    margin-bottom:15px ;
+}
+/* main{
+    padding: 40px;
+} */
